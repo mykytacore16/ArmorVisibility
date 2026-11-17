@@ -1,0 +1,17 @@
+Keybinds: {
+	ToggleHead.DisplayName: Показать/скрыть шлем
+	ToggleBody.DisplayName: Показать/скрыть нагрудник
+	ToggleLegs.DisplayName: Показать/скрыть поножи
+}
+
+UI: {
+	Head: Шлем
+	Body: Нагрудник
+	Legs: Поножи
+	VanityHead: Украшение (голова)
+	VanityBody: Украшение (тело)
+	VanityLegs: Украшение (ноги)
+	VanityAccessory: Аксессуар-украшение
+	Visible: "{0}: виден (нажми, чтобы скрыть)"
+	Hidden: "{0}: скрыт (нажми, чтобы показать)"
+}

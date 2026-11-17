@@ -1,0 +1,17 @@
+Keybinds: {
+	ToggleHead.DisplayName: Toggle helmet visibility
+	ToggleBody.DisplayName: Toggle chestplate visibility
+	ToggleLegs.DisplayName: Toggle leggings visibility
+}
+
+UI: {
+	Head: Helmet
+	Body: Chestplate
+	Legs: Leggings
+	VanityHead: Vanity helmet
+	VanityBody: Vanity shirt
+	VanityLegs: Vanity pants
+	VanityAccessory: Vanity accessory
+	Visible: "{0}: visible (click to hide)"
+	Hidden: "{0}: hidden (click to show)"
+}
